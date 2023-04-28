@@ -1,5 +1,5 @@
-/* Author:WebThemez
- * Author URI:http://webthemez.com
+/* Author:BrotherLouieLouie
+ * Author URI:
  * License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
  */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,400,700);
@@ -57,10 +57,10 @@ h1 span,
 h2 span,
 h3 span,
 h4 span {
-	color: #DB0A61;
+	color: #E69AA3;
 }
 .colored {
-	color: #DB0A61;
+	color: #E69AA3;
 }
 a {
 	color: #55acee;
@@ -111,8 +111,8 @@ blockquote {
 /* Layout
 ----------------------------------------------------------------------------- */
 .header {
-	color: #ffffff;
-	background-color: rgba(0, 0, 0, 1);
+	color: #050505;
+	background-color: rgb(248, 245, 245);
 	padding: 10px 0;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
@@ -148,11 +148,11 @@ blockquote {
 	z-index: 2;
 }
 .subfooter {
-	background-color: #DA095F;
+	background-color: #E69AA3;
 	padding: 40px 0;
 }
 .subfooter a {
-color: #FF89BA;
+color: #E69AA3;
 }
 .section {
 	background-color: #ffffff;
@@ -170,12 +170,12 @@ color: #FF89BA;
 }
 .btn-primary {
 color: #fff;
-background-color: #BD0451;
+background-color: #E69AA3;
 border:0px;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
 color: #fff;
-background-color: #E00A63;
+background-color: #E69AA3;
 border:0px;
 }
 .transprant-bg {
@@ -217,7 +217,7 @@ border:0px;
 	background-repeat: no-repeat;
 	z-index: 1;
 	position: relative;
-	background: #fff;
+	background: #111111;
 }
 .transprant-bg .transprant-bg {
 	margin-top: 80px;
@@ -231,7 +231,7 @@ border:0px;
 	z-index: 2;
 	width: 100%;
 	height: 100%;
-	background-color: #DB0A61;
+	background-color: #E69AA3;
 }
 .transprant-bg.blue:after {
 	background-color: rgba(85, 172, 238, 0.7);
@@ -358,13 +358,13 @@ text-align:center;
 	transition: all 0.2s ease-in-out;
 }
 .btn-default {
-	color: #FFFFFF;
-	background: #E00A63;
+	color: #000000;
+	background: #E69AA3;
 	border: 0;
 }
 .btn-default:hover {
-	color: #ffffff;
-	background-color: #BB0A53;
+	color: #000000;
+	background-color: #E69AA3;
 	border: 0;
 }
 
@@ -397,7 +397,7 @@ text-align:center;
 	display: inline-block;
 	width: 100%;
 	background-color: #fff;
-	color: #DB0A61;
+	color: #e8b5bb;
 	position: relative;
 	text-decoration: none;
 	border: #ECECEC 1px solid;
@@ -423,7 +423,7 @@ text-align:center;
 .panel-heading a:hover {
 	text-decoration: none;
 	background-color: #FFFFFF;
-	color: #DB0A61;
+	color: #E69AA3;
 }
 .panel-title a i {
 	padding-right: 10px;
@@ -436,9 +436,9 @@ text-align:center;
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus,
 .nav-pills > li > a:hover {
-	background-color: #DB0A61;
-	border-color: #DB0A61;
-	color: #ffffff;
+	background-color: #E69AA3;
+	border-color: #E69AA3;
+	color: #000000;
 }
 .nav-pills > li > a {
 	border-radius: 0;
@@ -519,18 +519,18 @@ padding: 10px 0;
 	border: none;
 }
 .main-navigation .navbar-default .navbar-nav > li > a {
-	color: #fff;
+	color: #000000;
 	padding: 10px 20px;
 	font-size: 18px;
 	font-weight: 400;
 }
 .main-navigation .navbar-default .navbar-nav > li.active > a {
 	background-color: transparent;
-	color: #DB0A61;
+	color: #E69AA3;
 }
 .main-navigation .navbar-default .navbar-nav > li > a:hover,
 .main-navigation .navbar-default .navbar-nav > li.active > a:hover {
-	color: #DB0A61;
+	color: #E69AA3;
 }
 
 /* carousel */
@@ -665,7 +665,7 @@ padding: 10px 0;
 /* Fixed Header
 ----------------------------------------------------------------------------- */
 .fixed-header-on .header {
-	background-color: rgba(0, 0, 0, 0.95);
+	background-color: rgba(247, 244, 244, 0.95);
 	padding: 5px 0;
 }
 .fixed-header-on .brand {
@@ -717,13 +717,13 @@ padding: 10px 0;
 	padding: 10px 0;
 }
 .brand a {
-	color: #ffffff;
+	color: #000000;
 }
 .brand a:hover {
 	text-decoration: none;
 }
 .site-slogan {
-	font-size: 12px;
+	font-size: 14px;
 }
 
 /* block-lists
@@ -820,15 +820,15 @@ border-radius: 50%;
 	margin-bottom: 20px;
 }
 .isotope-item .btn-default {
-	color: #FFFFFF;
-	background: rgba(219, 10, 97, 0.69);
+	color: #000000;
+	background: #E69AA3;
 	margin-top: -36px;
 	z-index: 2;
 	position: relative;
 	border: 0;
 }
 .isotope-item .btn-default:hover {
-	color: #ffffff;
+	color: #000000;
 }
 @media (max-width:480px) {
 	.filters .nav-pills > li {
@@ -850,7 +850,7 @@ border-radius: 50%;
 	bottom: -1px;
 	left: 0;
 	right: -1px;
-	background-color: rgba(219, 10, 97, 0.78);
+	background-color: #E69AA3;
 	cursor: pointer;
 	overflow: hidden;
 	opacity: 0;
@@ -872,7 +872,7 @@ border-radius: 50%;
 	bottom: 10px;
 	text-align: center;
 	width: 100%;
-	color: #ffffff;
+	color: #111111;
 	font-size: 13px;
 	font-weight: 300;
 }
@@ -882,7 +882,7 @@ border-radius: 50%;
 	top: 50%;
 	font-size: 18px;
 	line-height: 1x;
-	color: #ffffff;
+	color: #111111;
 	margin-top: -8px;
 	margin-left: -8px;
 	text-align: center;
