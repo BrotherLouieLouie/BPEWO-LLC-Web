@@ -57,10 +57,10 @@ h1 span,
 h2 span,
 h3 span,
 h4 span {
-	color: #E69AA3;
+	color: #d07a95;
 }
 .colored {
-	color: #E69AA3;
+	color: #d07a95;
 }
 a {
 	color: #55acee;
@@ -148,11 +148,11 @@ blockquote {
 	z-index: 2;
 }
 .subfooter {
-	background-color: #E69AA3;
+	background-color: #d07a95;
 	padding: 40px 0;
 }
 .subfooter a {
-color: #E69AA3;
+color: #d07a95;
 }
 .section {
 	background-color: #ffffff;
@@ -170,12 +170,12 @@ color: #E69AA3;
 }
 .btn-primary {
 color: #fff;
-background-color: #E69AA3;
+background-color: #d07a95;
 border:0px;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
 color: #fff;
-background-color: #E69AA3;
+background-color: #d07a95;
 border:0px;
 }
 .transprant-bg {
@@ -231,7 +231,7 @@ border:0px;
 	z-index: 2;
 	width: 100%;
 	height: 100%;
-	background-color: #E69AA3;
+	background-color: #d07a95;
 }
 .transprant-bg.blue:after {
 	background-color: rgba(85, 172, 238, 0.7);
@@ -358,13 +358,13 @@ text-align:center;
 	transition: all 0.2s ease-in-out;
 }
 .btn-default {
-	color: #000000;
-	background: #E69AA3;
+	color: #202425;
+	background: #d07a95;
 	border: 0;
 }
 .btn-default:hover {
-	color: #000000;
-	background-color: #E69AA3;
+	color: #202425;
+	background-color: #d07a95;
 	border: 0;
 }
 
@@ -397,13 +397,13 @@ text-align:center;
 	display: inline-block;
 	width: 100%;
 	background-color: #fff;
-	color: #e8b5bb;
+	color: #d07a95;
 	position: relative;
 	text-decoration: none;
 	border: #ECECEC 1px solid;
 }
 .panel-heading a.collapsed {
-	color: #333333;
+	color: #202425;
 	background-color: #FAFAFA;
 }
 .panel-heading a:after {
@@ -423,7 +423,7 @@ text-align:center;
 .panel-heading a:hover {
 	text-decoration: none;
 	background-color: #FFFFFF;
-	color: #E69AA3;
+	color: #d07a95;
 }
 .panel-title a i {
 	padding-right: 10px;
@@ -436,8 +436,8 @@ text-align:center;
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus,
 .nav-pills > li > a:hover {
-	background-color: #E69AA3;
-	border-color: #E69AA3;
+	background-color: #d07a95;
+	border-color: #d07a95;
 	color: #000000;
 }
 .nav-pills > li > a {
@@ -526,11 +526,11 @@ padding: 10px 0;
 }
 .main-navigation .navbar-default .navbar-nav > li.active > a {
 	background-color: transparent;
-	color: #E69AA3;
+	color: #d07a95;
 }
 .main-navigation .navbar-default .navbar-nav > li > a:hover,
 .main-navigation .navbar-default .navbar-nav > li.active > a:hover {
-	color: #E69AA3;
+	color: #d07a95;
 }
 
 /* carousel */
@@ -779,19 +779,19 @@ border-radius: 50%;
 	color: #0976b4;
 }
 .social-links li.googleplus a:hover {
-	color: #dd4b39;
+	color: #d07a95;
 }
 .social-links li.youtube a:hover {
-	color: #b31217;
+	color: #d07a95;
 }
 .social-links li.flickr a:hover {
-	color: #ff0084;
+	color: #d07a95;
 }
 .social-links li.facebook a:hover {
 	color: #3b5998;
 }
 .social-links li.pinterest a:hover {
-	color: #cb2027;
+	color: #d07a95;
 }
 
 /* Isotope Items
@@ -821,7 +821,7 @@ border-radius: 50%;
 }
 .isotope-item .btn-default {
 	color: #000000;
-	background: #E69AA3;
+	background: #d07a95;
 	margin-top: -36px;
 	z-index: 2;
 	position: relative;
@@ -850,7 +850,7 @@ border-radius: 50%;
 	bottom: -1px;
 	left: 0;
 	right: -1px;
-	background-color: #E69AA3;
+	background-color: #;
 	cursor: pointer;
 	overflow: hidden;
 	opacity: 0;
